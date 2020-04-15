@@ -1,4 +1,4 @@
-#Disco Snake
+# Disco Snake
 An object-oriented console game.
 ## How to play
 1. Start the game.
